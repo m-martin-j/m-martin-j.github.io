@@ -1,0 +1,45 @@
+title: "m-martin-j"
+email: f/xjvlvzqw
+timezone: UTC+1
+baseurl: ""
+permalink: "/:title/"
+logo: 'assets/images/mj_logo.svg'
+favicon: 'assets/images/favicon.ico'
+author: Martin
+paginate: 10
+# disqus: 'demowebsite'
+locale: de_de
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    disable: false
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# Authors
+authors:
+  martin:
+    name: Martin
+    display_name: Martin
+    avatar: 'assets/images/mj.png'
+    email: martin.trat@gmail.com
+    description: "That's me."
+
+# Social
+social:
+  linkedin: https://www.linkedin.com/in/martin-trat/ 
+  github: https://github.com/m-martin-j
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
