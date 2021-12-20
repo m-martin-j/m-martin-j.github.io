@@ -5,9 +5,9 @@
      sodipodi:docname="mj_logo.svg"
      id="mj_logo"
      version="1.1"
-     viewBox="0 0 19.43349 17.661216"
-     width="19.433489"
-     height="17.661215"
+     viewBox="0 0 19.919845 18.13502"
+     width="19.919844"
+     height="18.135019"
      xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
      xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
      xmlns="http://www.w3.org/2000/svg"
@@ -25,11 +25,11 @@
          inkscape:window-width="1920"
          showgrid="false"
          inkscape:document-rotation="0"
-         inkscape:current-layer="layer2"
+         inkscape:current-layer="layer1"
          inkscape:document-units="mm"
-         inkscape:cy="3.8803863"
-         inkscape:cx="16.039461"
-         inkscape:zoom="62.751484"
+         inkscape:cy="10.214898"
+         inkscape:cx="11.904101"
+         inkscape:zoom="31.375742"
          inkscape:pageshadow="2"
          inkscape:pageopacity="0.0"
          borderopacity="1.0"
@@ -50,7 +50,7 @@
         </rdf:RDF>
     </metadata>
     <g
-         transform="translate(-48.483638,-116.59067)"
+         transform="translate(-48.32428,-116.4313)"
          style="display:inline"
          id="layer1"
          inkscape:groupmode="layer"
@@ -66,24 +66,17 @@
                  x="47.702"
                  id="tspan10"
                  sodipodi:role="line">mj</tspan></text>
-    </g>
-    <g
-         transform="translate(-48.483638,-116.59067)"
-         style="display:inline"
-         inkscape:label="ituepf"
-         id="layer2"
-         inkscape:groupmode="layer">
         <rect
-             style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke-width:5.43723;stroke-linecap:square;stroke:none"
+             style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:5.43723;stroke-linecap:square"
              id="rect18"
              width="3.3139"
              height="3.974"
-             x="64.591911"
-             y="116.62064" />
+             x="64.354607"
+             y="116.65706" />
         <path
-             transform="matrix(1.4609772,0.92134459,-0.92134459,1.4609772,78.793203,-116.29358)"
+             transform="matrix(1.4609772,0.92134459,-0.92134459,1.4609772,78.555903,-116.25717)"
              sodipodi:type="spiral"
-             style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.387311;stroke-miterlimit:4;stroke-dasharray:none"
+             style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.387311;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
              id="path16"
              sodipodi:cx="66.099998"
              sodipodi:cy="118.88"
@@ -91,7 +84,7 @@
              sodipodi:revolution="1.3187598"
              sodipodi:radius="1.1952795"
              sodipodi:t0="0"
-             d="m 66.099998,118.88 c 0.04306,-0.12936 0.195609,-0.006 0.214993,0.0716 0.05253,0.20959 -0.173909,0.36084 -0.35813,0.35841 -0.329528,-0.004 -0.536127,-0.34051 -0.501839,-0.64469 0.05032,-0.4464 0.508774,-0.71497 0.931251,-0.64526 0.563097,0.0929 0.895229,0.67755 0.788687,1.21781 -0.03272,0.16592 -0.103124,0.32361 -0.203149,0.45986"
-             sodipodi:argument="-20.099001" />
+             sodipodi:argument="-20.099001"
+             d="m 66.099998,118.88 c 0.04306,-0.12936 0.195609,-0.006 0.214993,0.0716 0.05253,0.20959 -0.173909,0.36084 -0.35813,0.35841 -0.329528,-0.004 -0.536127,-0.34051 -0.501839,-0.64469 0.05032,-0.4464 0.508774,-0.71497 0.931251,-0.64526 0.563097,0.0929 0.895229,0.67755 0.788687,1.21781 -0.03272,0.16592 -0.103124,0.32361 -0.203149,0.45986" />
     </g>
 </svg>
