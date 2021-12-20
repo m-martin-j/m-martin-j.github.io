@@ -30,6 +30,7 @@ authors:
     avatar: 'assets/images/mj.png'
     email: martin.trat@gmail.com
     description: "That's me."
+    web: /about
 
 # Social
 social:
