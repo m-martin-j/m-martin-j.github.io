@@ -5,9 +5,9 @@
      sodipodi:docname="mj_logo.svg"
      id="mj_logo"
      version="1.1"
-     viewBox="0 0 19.919845 18.13502"
-     width="19.919844"
-     height="18.135019"
+     viewBox="0 0 19.662944 17.683238"
+     width="19.662943"
+     height="17.683237"
      xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
      xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
      xmlns="http://www.w3.org/2000/svg"
@@ -27,9 +27,9 @@
          inkscape:document-rotation="0"
          inkscape:current-layer="layer1"
          inkscape:document-units="mm"
-         inkscape:cy="10.214898"
-         inkscape:cx="11.904101"
-         inkscape:zoom="31.375742"
+         inkscape:cy="5.1609123"
+         inkscape:cx="7.9554674"
+         inkscape:zoom="22.186"
          inkscape:pageshadow="2"
          inkscape:pageopacity="0.0"
          borderopacity="1.0"
@@ -50,41 +50,30 @@
         </rdf:RDF>
     </metadata>
     <g
-         transform="translate(-48.32428,-116.4313)"
-         style="display:inline"
          id="layer1"
          inkscape:groupmode="layer"
-         inkscape:label="Layer 1">
+         inkscape:label="Layer 1"
+         transform="translate(-48.483638,-116.56864)">
         <text
              id="text12"
              y="130.08"
              x="47.702"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.2867px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.26458"
-             xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.2867px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.26458"><tspan
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.2867px;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26458"
                  y="130.08"
                  x="47.702"
                  id="tspan10"
                  sodipodi:role="line">mj</tspan></text>
         <rect
-             style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:5.43723;stroke-linecap:square"
              id="rect18"
-             width="3.3139"
-             height="3.974"
-             x="64.354607"
-             y="116.65706" />
+             width="4.6394868"
+             height="4.1899076"
+             x="63.507095"
+             y="116.56864"
+             style="fill:#ffffff;fill-opacity:1" />
         <path
-             transform="matrix(1.4609772,0.92134459,-0.92134459,1.4609772,78.555903,-116.25717)"
-             sodipodi:type="spiral"
-             style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.387311;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+             style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-dasharray:none;stroke-miterlimit:4;stroke-width:0.56585362478"
              id="path16"
-             sodipodi:cx="66.099998"
-             sodipodi:cy="118.88"
-             sodipodi:expansion="1"
-             sodipodi:revolution="1.3187598"
-             sodipodi:radius="1.1952795"
-             sodipodi:t0="0"
-             sodipodi:argument="-20.099001"
-             d="m 66.099998,118.88 c 0.04306,-0.12936 0.195609,-0.006 0.214993,0.0716 0.05253,0.20959 -0.173909,0.36084 -0.35813,0.35841 -0.329528,-0.004 -0.536127,-0.34051 -0.501839,-0.64469 0.05032,-0.4464 0.508774,-0.71497 0.931251,-0.64526 0.563097,0.0929 0.895229,0.67755 0.788687,1.21781 -0.03272,0.16592 -0.103124,0.32361 -0.203149,0.45986" />
+             d="M 65.5972 118.325 C 65.7793 118.176 65.8885 118.497 65.8453 118.628 C 65.729 118.982 65.2588 118.995 64.9919 118.822 C 64.5141 118.512 64.5223 117.83 64.8527 117.417 C 65.3375 116.811 66.2547 116.842 66.8077 117.333 C 67.5448 117.987 67.4914 119.147 66.838 119.838 C 66.6373 120.051 66.3891 120.216 66.1175 120.323" />
     </g>
 </svg>
