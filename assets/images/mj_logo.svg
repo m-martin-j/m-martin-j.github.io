@@ -27,9 +27,9 @@
          inkscape:document-rotation="0"
          inkscape:current-layer="layer2"
          inkscape:document-units="mm"
-         inkscape:cy="3.9439286"
-         inkscape:cx="11.516272"
-         inkscape:zoom="22.186"
+         inkscape:cy="3.8803863"
+         inkscape:cx="16.039461"
+         inkscape:zoom="62.751484"
          inkscape:pageshadow="2"
          inkscape:pageopacity="0.0"
          borderopacity="1.0"
@@ -74,12 +74,12 @@
          id="layer2"
          inkscape:groupmode="layer">
         <rect
-             style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke-width:5.43723;stroke-linecap:square"
+             style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke-width:5.43723;stroke-linecap:square;stroke:none"
              id="rect18"
              width="3.3139"
              height="3.974"
-             x="64.320999"
-             y="116.78" />
+             x="64.591911"
+             y="116.62064" />
         <path
              transform="matrix(1.4609772,0.92134459,-0.92134459,1.4609772,78.793203,-116.29358)"
              sodipodi:type="spiral"
