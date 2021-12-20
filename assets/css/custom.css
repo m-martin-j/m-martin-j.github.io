@@ -12,3 +12,7 @@ body {}
 .hero.green {
     background-color: #79C471;
 }
+
+.site-logo {
+    height: 40px;
+}
